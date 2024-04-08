@@ -12,13 +12,14 @@ To use the code in this repository:
       install.packages(c("ggplot2", "plyr"))
 
 2. **Load R Libraries:** Load the necessary libraries in R:
+
       library(ggplot2)
 
       library(plyr)
 
-3. **Load Iris Dataset:** The analysis is performed on the classic Iris dataset. The dataset is loaded automatically in the script.
+4. **Load Iris Dataset:** The analysis is performed on the classic Iris dataset. The dataset is loaded automatically in the script.
 
-4. **Run Analysis Script:** Execute the R script boxplot.R to generate boxplots with standard error bars and individual data points.
+5. **Run Analysis Script:** Execute the R script boxplot.R to generate boxplots with standard error bars and individual data points.
 
 # Dataset
 The Iris dataset (iris) is a built-in dataset in R and contains measurements of various iris flowers. The dataset is widely used for introductory data analysis and visualization tasks.
